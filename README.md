@@ -1,4 +1,4 @@
-# Nafisat_Diabetes_Dataset_EDA
+# Diabetes_Dataset_EDA
 Diabetes Dataset EDA
 
 ## Project Overview
